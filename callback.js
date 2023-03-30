@@ -1,3 +1,7 @@
+/*  Call Back 
+Bitta functionda ikkinchi function ni parametr sifatida ishlatishimiz bu callback deyiladi
+*/
+
 const users = [
   { name: "John", lastName: "Hooly", email: "john@example.com" },
   { name: "Muhammad", lastName: "Mali", email: "mali@example.com" },

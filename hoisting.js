@@ -40,3 +40,6 @@ var fourth = "fourth";
 console.log(fourth);  // fourth
 
 */
+var fourth = "fourth";
+
+console.log(fourth);
